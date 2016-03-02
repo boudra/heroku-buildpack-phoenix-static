@@ -1,2 +1,2 @@
-brunch build --production
+npm run build
 mix phoenix.digest
